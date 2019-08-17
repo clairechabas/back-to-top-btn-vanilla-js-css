@@ -1,6 +1,6 @@
 # A simple back-to-top button in vanilla JS and CSS
 
-No need for jQuery or any library every single time we need to add a bit of functionality to a website or app. Here we'll see how to create a simple back-to-top button using just CSS and Javascript.
+No need for jQuery or any library every single time we need to add a bit of functionality to a website/app. Here we'll see how to create a simple back-to-top button using just CSS and Javascript.
 
 Basically we want :
 
